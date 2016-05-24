@@ -5,3 +5,14 @@ Bootstrap 2 distribution package to run styling some of my site in my repositori
 * bs3_dist/
 * shl/
 * otherSiteRequiredBS2/
+
+##### Credits : Albert Septiawan
+* Github 	: @axquired24
+* Email 	: axquired24@gmail.com
+* WP 		: albertseptiawan24.wordpress.com
+* Address 	: Surakarta, ID (Current)
+* For issue, just direct contact me via github or email :D
+-------- 
+
+##### Ilmu tidak akan habis dibagi, let's share :)
+##### Feel free to clone, please don't remove all axquired24's attribute :)
